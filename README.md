@@ -232,6 +232,8 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 |Fecha | _20/12/2023_ |
 
 ## Diagrama de clases
+> [!NOTE]
+> Hola
 
 
 ## Diagrama
